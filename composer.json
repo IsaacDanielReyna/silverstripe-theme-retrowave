@@ -1,0 +1,29 @@
+{
+    "name": "isaacdanielreyna/retrowave-theme",
+    "description": "SilverStripe 4 Theme - RetroWave",
+    "type": "silverstripe-theme",
+    "homepage": "https://github.com/IsaacDanielReyna/silverstripe-theme-retrowave",
+    "keywords": ["silverstripe", "theme", "retrowave", "bootstrap"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Isaac Daniel Reyna",
+            "email": "silverstripe@isaacreyna.com",
+            "homepage": "https://www.isaacreyna.com"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "^4.0"
+    },
+	"extra": {
+        "branch-alias": {
+            "dev-feature/media-object": "1.0-dev"
+        },
+        "expose": [
+            "css",
+            "images",
+            "javascript",
+            "webfonts"
+        ]
+	}
+}
