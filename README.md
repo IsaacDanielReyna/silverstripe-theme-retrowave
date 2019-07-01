@@ -1,5 +1,4 @@
-# silverstripe-theme-retrowave
-SilverStripe 4 Theme - RetroWave
+# SilverStripe 4 Theme - RetroWave
 
 ## Installation
 **Via Composer**
