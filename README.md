@@ -4,7 +4,7 @@
 ## Installation
 **Via Composer**
 ```
-composer require isaacdanielreyna/retrowave
+composer require isaacdanielreyna/retrowave-theme
 ```
 ## Configuring theme
 After installing, update the current theme in SilverStripe. Edit **app/_config/theme.yml** and add retrowave-theme
